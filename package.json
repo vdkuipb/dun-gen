@@ -1,0 +1,23 @@
+{
+  "name": "dun-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdkuipb/dun-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdkuipb/dun-gen/issues"
+  },
+  "homepage": "https://github.com/vdkuipb/dun-gen#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.0",
+    "typescript": "^4.3.5"
+  }
+}
